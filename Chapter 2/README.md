@@ -37,7 +37,9 @@ A. truth table of and
 	(True and True) and (True == False)
 	(not False) or (not True)
 
-A.	False
+A.
+
+	False
 
 	False
 
