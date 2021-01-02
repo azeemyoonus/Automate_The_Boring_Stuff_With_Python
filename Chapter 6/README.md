@@ -4,7 +4,8 @@ Practice Questions
 1.What are escape characters?
 
 A.
-An escape character is used to represent characters in string value
+
+	An escape character is used to represent characters in string value
 
 
 
@@ -33,7 +34,8 @@ A.
 4.The string value "Howl's Moving Castle" is a valid string. Why isn’t it a problem that the single quote character in the word Howl's isn’t escaped?
 
 A.
-Because the whole string is represented with double quote.
+
+	Because the whole string is represented with double quote.
 
 
 
@@ -41,7 +43,8 @@ Because the whole string is represented with double quote.
 5.If you don’t want to put \n in your string, how can you write a string with newlines in it?
 
 A.
-By uysing multiline strings can get into  new line without \n
+
+	By uysing multiline strings can get into  new line without \n
 
 
 
