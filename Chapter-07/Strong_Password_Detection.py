@@ -1,6 +1,6 @@
 import re
 
-char_10=re.compile(r'.{8,}')
+char_8=re.compile(r'.{8,}')
 upper_char=re.compile(r'[A-Z]')
 lower_char=re.compile(r'[a-z]')
 digit=re.compile(r'[0-9]')
